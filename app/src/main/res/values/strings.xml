@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Orbuculum</string>
+
+    <string name="new_tip">Do you need a new tip to change your luck?</string>
+
+    <string name="purchase_tip_btn">I need new tip!</string>
+    <string name="purchase_weekly_tips_btn">I need tips daily for one week, I need help!</string>
+    <string name="purchase_monthly_tips_btn">I need a lot of tips, I will be a superhero!</string>
+    <string name="purchase_monthly_tips_btn_active">monthly suscription active</string>
+
+
+
+    <string name="subscription_period_monthly">Monthly</string>
+    <string name="subscription_period_yearly">Yearly</string>
+
+    <string name="subscription_period_prompt">Select your subscription period</string>
+    <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+    <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+
+
+    <string name="subscription_prompt_continue">Continue</string>
+    <string name="subscription_prompt_cancel">Cancel</string>
+</resources>
